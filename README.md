@@ -1,3 +1,3 @@
-# Start By Capgemini - Exercicios Algoritmo
+# Programa Start By Capgemini
 
-Repositório para registrar os exercícios de algoritmo desenvolvidos ao longo do curso de treinamento Capgemini Java Developer - Program Start.
+Aulas de Algoritmo em Java.
